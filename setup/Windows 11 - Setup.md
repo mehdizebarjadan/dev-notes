@@ -7,11 +7,9 @@
 ### 🔧 1. **Install WSL2 and Ubuntu**
 
 Open PowerShell (as admin) and run:
-
-powershell
-
-`wsl --install`
-
+```powershell
+wsl --install
+```
 Reboot when prompted. It will install Ubuntu (default). Once done, open Ubuntu from Start Menu.
 
 ---
@@ -19,15 +17,18 @@ Reboot when prompted. It will install Ubuntu (default). Once done, open Ubuntu f
 ### 🧰 2. **Inside WSL2 (Ubuntu)** — replicate your Mac setup
 
 Now you’re in a Linux terminal inside Windows. Run these commands to match your Mac environment:
-
-bash
-
-`# Update and install basics sudo apt update && sudo apt upgrade -y sudo apt install git curl python3 python3-pip python3-venv build-essential -y`
-
+```bash
+# Update and install basics 
+sudo apt update && sudo apt upgrade -y 
+sudo apt install git curl python3 python3-pip python3-venv build-essential -y
+```
 ---
 
 ### 🟢 3. **Install NVM and Node**
 
+```bash
+
+```
 bash
 
 `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash source ~/.bashrc  # or ~/.zshrc if using zsh  nvm install --lts nvm use --lts`

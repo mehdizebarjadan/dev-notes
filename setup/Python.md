@@ -70,3 +70,17 @@ This tells VS Code to always use your project’s virtual environment.
 
 
 
+
+```json
+{
+  "python.defaultInterpreterPath": "/Users/user/Projects/django/venv/bin/python",
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true,
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "files.associations": {
+    "**/templates/*.html": "django-html"
+  }
+}
+
+```
