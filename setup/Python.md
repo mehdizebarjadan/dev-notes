@@ -1,4 +1,5 @@
-Virtual environment
+# Virtual environment
+
 To make sure your VS Code `settings.json` points to the **correct Python virtual environment**, you'll need to:
 
 ---
@@ -9,15 +10,11 @@ In your terminal (inside the Django project directory), run:
 
 bash
 
-CopyEdit
-
-`which python`
+```which python`
 
 If you're inside a virtual environment, this will return something like:
 
 swift
-
-CopyEdit
 
 `/Users/yourname/Projects/django/venv/bin/python`
 
@@ -33,15 +30,11 @@ If you haven’t created one yet:
 
 bash
 
-CopyEdit
-
 `python3 -m venv venv`
 
 Then activate it:
 
 bash
-
-CopyEdit
 
 `source venv/bin/activate`
 
@@ -49,15 +42,11 @@ Now try:
 
 bash
 
-CopyEdit
-
 `which python`
 
 You should get a path inside your project folder, like:
 
 swift
-
-CopyEdit
 
 `/Users/yourname/Projects/django/venv/bin/python`
 
@@ -69,16 +58,15 @@ Open `.vscode/settings.json` and add:
 
 json
 
-CopyEdit
-
 `"python.defaultInterpreterPath": "/Users/yourname/Projects/django/venv/bin/python"`
 
 Or use the VS Code variable if `venv` is in the root of your workspace:
 
 json
 
-CopyEdit
-
 `"python.defaultInterpreterPath": "${workspaceFolder}/venv/bin/python"`
 
 This tells VS Code to always use your project’s virtual environment.
+
+
+
