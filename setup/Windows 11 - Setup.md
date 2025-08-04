@@ -27,11 +27,13 @@ sudo apt install git curl python3 python3-pip python3-venv build-essential -y
 ### 🟢 3. **Install NVM and Node**
 
 ```bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+source ~/.bashrc  # or ~/.zshrc if using zsh
+
+nvm install --lts
+nvm use --lts
 
 ```
-bash
-
-`curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash source ~/.bashrc  # or ~/.zshrc if using zsh  nvm install --lts nvm use --lts`
 
 ---
 
@@ -39,25 +41,31 @@ bash
 
 Inside your project directory:
 
-bash
-
-`python3 -m venv venv source venv/bin/activate pip install --upgrade pip pip install django black pylint isort`
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install --upgrade pip
+pip install django black pylint isort
+```
 
 ---
 
 ### 🔐 5. **Setup Git + SSH**
 
-bash
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "your@email.com"
 
-`git config --global user.name "Your Name" git config --global user.email "your@email.com"  ssh-keygen -t ed25519 -C "your@email.com" cat ~/.ssh/id_ed25519.pub`
+ssh-keygen -t ed25519 -C "your@email.com"
+cat ~/.ssh/id_ed25519.pub
+```
 
 Add that key to your [GitHub SSH keys](https://github.com/settings/keys).
 
 Test:
-
-bash
-
-`ssh -T git@github.com`
+```bash
+ssh -T git@github.com
+```
 
 ---
 
@@ -71,10 +79,9 @@ Then install the **WSL extension**:
     
 
 From inside WSL:
-
-bash
-
-`code .`
+```bash
+code .
+```
 
 That opens VS Code in your Ubuntu environment with full access to Python, Django, etc.
 
@@ -102,10 +109,9 @@ Match what you have on Mac:
 ### 🐘 8. **Install PostgreSQL (optional)**
 
 In WSL:
-
-bash
-
-`sudo apt install postgresql postgresql-contrib`
+```bash
+sudo apt install postgresql postgresql-contrib
+```
 
 ---
 
@@ -121,7 +127,7 @@ bash
 ## 🔁 Syncing Projects Between Mac and Windows
 
 If you use GitHub for all your code, you'll stay in sync:
-
-bash
-
-`# On both machines: git clone git@github.com:yourusername/your-django-project.git`
+```bash
+# On both machines:
+git clone git@github.com:yourusername/your-django-project.git
+```

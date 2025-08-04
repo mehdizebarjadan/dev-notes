@@ -6,15 +6,22 @@
 
 ### 🧰 1. **Check Python & Virtual Environment**
 
-`python3 --version which python3`
+```bash
+python3 --version
+which python3
+```
 
 Then activate your virtualenv (if you created one):
 
-`source /Users/user/Projects/django/venv/bin/activate`
+```bash
+source /Users/user/Projects/django/venv/bin/activate
+```
 
 Verify:
-
-`which python python --version`
+```bash
+which python
+python --version
+```
 
 ---
 
