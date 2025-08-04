@@ -1,5 +1,3 @@
 # TODO
 
-- [ ] Learn DRF
-- [ ] Practice with React
-- [ ] 
+- [ ] Test Obsidian on HP
