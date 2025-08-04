@@ -31,13 +31,14 @@ It consists of:
     
     ```bash
     ssh-keygen -t ed25519 -C "you@example.com"
-```
+	```
     
 2. **You add the public key to GitHub**:
     
     - Run:
-			```
-			
+        ```bash
+        pbcopy < ~/.ssh/id_ed25519.pub
+		```
         
         
     - Go to GitHub → **Settings > SSH and GPG keys > New SSH Key**
@@ -46,11 +47,10 @@ It consists of:
         
 3. **You tell your system to use the private key**:
     
-    bash
-    
-    CopyEdit
-    
-    `eval "$(ssh-agent -s)" ssh-add ~/.ssh/id_ed25519`
+    ```bash
+    eval "$(ssh-agent -s)"
+	ssh-add ~/.ssh/id_ed25519
+	```
     
 4. **When you push/pull with Git**, GitHub checks if your public key matches your private key.
     
@@ -61,19 +61,15 @@ It consists of:
 
 After adding the key:
 
-bash
-
-CopyEdit
-
-`ssh -T git@github.com`
+```bash
+ssh -T git@github.com
+```
 
 Expected output:
 
-vbnet
-
-CopyEdit
-
-`Hi yourusername! You've successfully authenticated, but GitHub does not provide shell access.`
+```vbnet
+Hi yourusername! You've successfully authenticated, but GitHub does not provide shell access.
+```
 
 That means it’s working 🎉
 
@@ -83,21 +79,20 @@ That means it’s working 🎉
 
 If you're using SSH with GitHub regularly, make sure your Git remote is using the SSH URL:
 
-bash
-
-CopyEdit
-
-`git remote set-url origin git@github.com:yourusername/your-repo.git`
+```bash
+git remote set-url origin git@github.com:yourusername/your-repo.git
+```
 
 And optionally create a `~/.ssh/config` like:
 
-ssh
+```ssh
+Host github.com
+  AddKeysToAgent yes
+  IdentityFile ~/.ssh/id_ed25519
+```
 
-CopyEdit
 
-`Host github.com   AddKeysToAgent yes   IdentityFile ~/.ssh/id_ed25519`
-
-
+# The difference between **SSH** and **HTTPS**
 The difference between **SSH** and **HTTPS** setups for GitHub mostly comes down to **how you authenticate** and **manage access** when you push/pull code.
 
 Here’s a simple breakdown:
@@ -119,20 +114,15 @@ Here’s a simple breakdown:
 ## 🔄 Usage Differences
 
 - **SSH URLs look like:**
-    
-    scss
-    
-    CopyEdit
-    
-    `git@github.com:username/repo.git`
+	```scss
+	git@github.com:username/repo.git
+	```
     
 - **HTTPS URLs look like:**
     
-    arduino
-    
-    CopyEdit
-    
-    `https://github.com/username/repo.git`
+	```arduino
+	https://github.com/username/repo.git
+	```
     
 
 ---
