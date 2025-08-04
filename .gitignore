@@ -1,0 +1,10 @@
+# Obsidian temp files and OS files
+.obsidian/workspace.json
+.obsidian/appearance.json
+.DS_Store
+Thumbs.db
+
+# Python or project-specific ignores (optional)
+venv/
+node_modules/
+__pycache__/
