@@ -151,9 +151,7 @@ Here’s a simple breakdown:
 ## Bonus: Switching Between SSH and HTTPS
 
 You can change the remote URL anytime with:
-
-bash
-
-CopyEdit
-
-`git remote set-url origin git@github.com:username/repo.git   # SSH git remote set-url origin https://github.com/username/repo.git   # HTTPS`
+```bash
+git remote set-url origin git@github.com:username/repo.git   # SSH
+git remote set-url origin https://github.com/username/repo.git   # HTTPS
+```
