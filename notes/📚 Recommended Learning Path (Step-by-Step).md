@@ -217,9 +217,7 @@ Then later, if you want mobile skills on your resume or have a mobile app idea, 
 
 📌 _Why_: Employers love devs who write tests.
 
----
-
-## 🎨 Core Concepts to Study Alongside React (Frontend)
+# 🎨 Core Concepts to Study Alongside React (Frontend)
 
 ### 1. **JavaScript (Deeply)**
 
