@@ -104,4 +104,6 @@ In VS Code:
     - ✅ Black Formatter
         
     - ✅ isort
+## ⛳ Script file to Setup Django
 
+![[setup_django.sh]]![[setup_django_env_mac.sh]]
