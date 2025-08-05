@@ -1,5 +1,6 @@
 # TODO
 
-- [ ] Test Obsidian on HP
-- [ ] All set!
-- [ ] This is from Mac
+- [ ] Obsidian. Tutorial
+- [ ] Git. commands
+- [ ] Gitkraken. Tutorial
+- [ ] Django
