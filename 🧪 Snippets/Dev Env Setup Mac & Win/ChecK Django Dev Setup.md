@@ -104,4 +104,3 @@ In VS Code:
     - ✅ Black Formatter
         
     - ✅ isort
-## ⛳ Script file to Setup Django
