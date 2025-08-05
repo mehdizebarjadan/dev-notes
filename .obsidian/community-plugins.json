@@ -1,14 +1,7 @@
 [
   "obsidian-git",
-  "obsidian-icon-folder",
-  "obsidian-style-settings",
-  "omnisearch",
-  "home-tab",
-  "auto-card-link",
-  "paste-link",
-  "dataview",
-  "recent-files-obsidian",
-  "obsidian-trash-explorer",
   "obsidian-tasks-plugin",
-  "obsidian-kanban"
+  "dataview",
+  "calendar",
+  "table-editor-obsidian"
 ]
