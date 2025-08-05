@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Windows 11 - Setup",
+      "path": "setup/Windows 11 - Setup.md"
+    },
+    {
       "basename": "Obsidian",
       "path": "setup/Obsidian.md"
     },
@@ -13,8 +17,12 @@
       "path": "notes/📚 Recommended Learning Path (Step-by-Step).md"
     }
   ],
-  "omittedPaths": [],
-  "omittedTags": [],
+  "omittedPaths": [
+    ""
+  ],
+  "omittedTags": [
+    ""
+  ],
   "updateOn": "file-open",
   "omitBookmarks": false
 }

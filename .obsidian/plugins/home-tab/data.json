@@ -24,8 +24,12 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "setup/Windows 11 - Setup.md",
+      "timestamp": 1754373396646
+    },
+    {
       "filepath": "setup/Obsidian.md",
-      "timestamp": 1754372222884
+      "timestamp": 1754373211669
     },
     {
       "filepath": "setup/Git.md",
