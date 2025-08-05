@@ -275,12 +275,12 @@ Then later, if you want mobile skills on your resume or have a mobile app idea, 
 
 ## 🛠️ DevOps & Tools (Light, but useful)
 
-|Skill|Why Learn It|Tools|
-|---|---|---|
-|**Git & GitHub**|Track changes, team work|Git CLI, GitHub|
-|**Docker (optional)**|Run backend/frontend consistently|Docker Compose|
-|**Deployment**|Make your project live|Render, Vercel, Netlify|
-|**CI/CD (Later)**|Automate testing + deploy|GitHub Actions|
+| Skill                 | Why Learn It                      | Tools                   |
+| --------------------- | --------------------------------- | ----------------------- |
+| **Git & GitHub**      | Track changes, team work          | Git CLI, GitHub         |
+| **Docker (optional)** | Run backend/frontend consistently | Docker Compose          |
+| **Deployment**        | Make your project live            | Render, Vercel, Netlify |
+| **CI/CD (Later)**     | Automate testing + deploy         | GitHub Actions          |
 
 ---
 
