@@ -44,5 +44,23 @@
       ],
       "key": "D"
     }
+  ],
+  "obsidian-trash-explorer:show-trash-explorer": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "recent-files-obsidian:recent-files-open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
   ]
 }

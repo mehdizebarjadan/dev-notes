@@ -5,6 +5,18 @@
       "path": "setup/Windows 11 - Setup.md"
     },
     {
+      "basename": "Untitled",
+      "path": "Untitled.canvas"
+    },
+    {
+      "basename": "models",
+      "path": "django/models.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Obsidian",
       "path": "setup/Obsidian.md"
     },

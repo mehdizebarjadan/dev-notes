@@ -25,15 +25,19 @@
   "recentFilesStore": [
     {
       "filepath": "setup/Windows 11 - Setup.md",
-      "timestamp": 1754373396646
+      "timestamp": 1754374072549
     },
     {
-      "filepath": "setup/Obsidian.md",
-      "timestamp": 1754373211669
+      "filepath": "Untitled.canvas",
+      "timestamp": 1754374013310
     },
     {
-      "filepath": "setup/Git.md",
-      "timestamp": 1754371973680
+      "filepath": "django/models.md",
+      "timestamp": 1754373983253
+    },
+    {
+      "filepath": "README.md",
+      "timestamp": 1754373619496
     }
   ],
   "bookmarkedFileStore": [],
