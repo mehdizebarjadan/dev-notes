@@ -25,5 +25,15 @@
       ],
       "key": "T"
     }
+  ],
+  "paste-link:paste-as-plain-text": [],
+  "auto-card-link:auto-card-link-paste-and-enhance": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
   ]
 }
