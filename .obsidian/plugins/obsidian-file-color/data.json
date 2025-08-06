@@ -1,0 +1,78 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "M757zfImxodJXkLY2b3Uf",
+      "name": "",
+      "value": "#ff0038"
+    },
+    {
+      "id": "aDiRC9A7DKTQkVd4AFuOK",
+      "name": "",
+      "value": "#005c59"
+    },
+    {
+      "id": "vtPDktXQU1crBNwFTFVjd",
+      "name": "",
+      "value": "#272b39"
+    },
+    {
+      "id": "f7iw8XkQYLJVFMkoH4FIO",
+      "name": "",
+      "value": "#b061ff"
+    },
+    {
+      "id": "sNBoY94BmeSFd3ESNpsbP",
+      "name": "",
+      "value": "#deb238"
+    },
+    {
+      "id": "O7MT1Q774uMxcF8DXAv00",
+      "name": "",
+      "value": "#31b2aa"
+    },
+    {
+      "id": "hKnfhvt4j_X0Q4TkHMp3n",
+      "name": "",
+      "value": "#3ed7d6"
+    },
+    {
+      "id": "bnJupasKP8Pf1NplFDPtA",
+      "name": "",
+      "value": "#31cc99"
+    },
+    {
+      "id": "DVdJFGtkBJ7sA2MtKOjIp",
+      "name": "",
+      "value": "#b1ebe1"
+    },
+    {
+      "id": "wB-QPsIZKP_qgBn5clGb_",
+      "name": "",
+      "value": "#d5f0ee"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Courses",
+      "color": "sNBoY94BmeSFd3ESNpsbP"
+    },
+    {
+      "path": "Snippets",
+      "color": "sNBoY94BmeSFd3ESNpsbP"
+    },
+    {
+      "path": "Snippets/Setting Up Development Environment",
+      "color": "wB-QPsIZKP_qgBn5clGb_"
+    },
+    {
+      "path": "README.md",
+      "color": "wB-QPsIZKP_qgBn5clGb_"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "color": "wB-QPsIZKP_qgBn5clGb_"
+    }
+  ]
+}

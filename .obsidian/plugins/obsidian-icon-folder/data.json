@@ -1,0 +1,78 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "💻",
+      "📚",
+      "🧪",
+      "🧠",
+      "CoCalendarCheck"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Daily": {
+    "iconName": "CoCalendarCheck",
+    "iconColor": "#f72a3a"
+  },
+  "Concepts": "🧠",
+  "Snippets": "🧪",
+  "Snippets/Setting Up Development Environment": {
+    "iconName": "LiSettings",
+    "iconColor": "#fa90a8"
+  },
+  "Snippets/Setting Up Development Environment/Obsidian Setup for Dev Learning Lightweight.md": {
+    "iconName": "SiObsidian",
+    "iconColor": "#7789cf"
+  },
+  "Snippets/Setting Up Development Environment/SSH (Secure Shell) key in GitHub.md": {
+    "iconName": "SiGithub",
+    "iconColor": "#fa90a8"
+  },
+  "Snippets/Setting Up Development Environment/Virtual Environment Setup - Python.md": {
+    "iconName": "SiPython",
+    "iconColor": "#6684e1"
+  },
+  "Snippets/Setting Up Development Environment/NVM - Node Version Manager.md": {
+    "iconName": "RiNodejsLine",
+    "iconColor": "#31cc99"
+  },
+  "Snippets/Setting Up Development Environment/Checklist Django Environment Setup.md": {
+    "iconName": "CoListChecklist",
+    "iconColor": "#55e25e"
+  },
+  "Snippets/Setting Up Development Environment/Windows 11 - Frontend & Backend Development Setup.md": {
+    "iconName": "RiInstallFill",
+    "iconColor": "#f72a3a"
+  },
+  "Snippets/Setting Up Development Environment/Mac - Frontend & Backend Development Setup.md": {
+    "iconName": "RiInstallFill",
+    "iconColor": "#f72a3a"
+  },
+  "Projects": "💻",
+  "Courses": "📚",
+  "Courses/Recommended Learning Path.md": "💡"
+}
