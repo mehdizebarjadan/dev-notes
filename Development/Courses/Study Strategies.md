@@ -1,4 +1,4 @@
-### Study Strategies
+re### Study Strategies
 
 - **Create a Structured Learning Plan:**
     

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiSun",
-      "CoSun",
-      "☀",
-      "💻",
-      "📚"
+      "IbSparks",
+      "LiMailWarning",
+      "SiHubspot",
+      "LiGoal",
+      "✨"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,46 +34,66 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Daily": {
-    "iconName": "CoCalendarCheck",
-    "iconColor": "#f72a3a"
+  "Development": {
+    "iconName": "IbSparks",
+    "iconColor": "#69579d"
   },
-  "Concepts": "🧠",
-  "Snippets": "🧪",
-  "Snippets/Setting Up Development Environment": {
+  "Development/Snippets/Setting Up Development Environment": {
     "iconName": "LiSettings",
     "iconColor": "#fa90a8"
   },
-  "Snippets/Setting Up Development Environment/Obsidian Setup for Dev Learning Lightweight.md": {
-    "iconName": "SiObsidian",
-    "iconColor": "#af96f0"
-  },
-  "Snippets/Setting Up Development Environment/SSH (Secure Shell) key in GitHub.md": {
-    "iconName": "SiGithub",
-    "iconColor": "#f28b82"
-  },
-  "Snippets/Setting Up Development Environment/Virtual Environment Setup - Python.md": {
-    "iconName": "SiPython",
-    "iconColor": "#6684e1"
-  },
-  "Snippets/Setting Up Development Environment/NVM - Node Version Manager.md": {
-    "iconName": "RiNodejsLine",
-    "iconColor": "#31cc99"
-  },
-  "Snippets/Setting Up Development Environment/Checklist Django Environment Setup.md": {
+  "Development/Snippets/Setting Up Development Environment/Checklist Django Environment Setup.md": {
     "iconName": "CoListChecklist",
     "iconColor": "#55e25e"
   },
-  "Snippets/Setting Up Development Environment/Windows 11 - Frontend & Backend Development Setup.md": {
+  "Development/Snippets/Setting Up Development Environment/Mac - Frontend & Backend Development Setup.md": {
     "iconName": "RiInstallFill",
     "iconColor": "#f72a3a"
   },
-  "Snippets/Setting Up Development Environment/Mac - Frontend & Backend Development Setup.md": {
+  "Development/Snippets/Setting Up Development Environment/NVM - Node Version Manager.md": {
+    "iconName": "RiNodejsLine",
+    "iconColor": "#31cc99"
+  },
+  "Development/Snippets/Setting Up Development Environment/Obsidian Setup for Dev Learning Lightweight.md": {
+    "iconName": "SiObsidian",
+    "iconColor": "#af96f0"
+  },
+  "Development/Snippets/Setting Up Development Environment/SSH (Secure Shell) key in GitHub.md": {
+    "iconName": "SiGithub",
+    "iconColor": "#f28b82"
+  },
+  "Development/Snippets/Setting Up Development Environment/Virtual Environment Setup - Python.md": {
+    "iconName": "SiPython",
+    "iconColor": "#6684e1"
+  },
+  "Development/Snippets/Setting Up Development Environment/Windows 11 - Frontend & Backend Development Setup.md": {
     "iconName": "RiInstallFill",
     "iconColor": "#f72a3a"
   },
-  "Projects": "💻",
-  "Courses": "📚",
-  "Courses/Recommended Learning Path.md": "💡",
-  "Courses/Study Strategies.md": "LiSun"
+  "Development/Files": "🗃",
+  "Development/Courses": {
+    "iconName": "RiMovieFill",
+    "iconColor": "#f13b3b"
+  },
+  "Development/Courses/Recommended Learning Path.md": {
+    "iconName": "LiThumbsUp",
+    "iconColor": "#29ac20"
+  },
+  "Development/Courses/Study Strategies.md": {
+    "iconName": "LiSun",
+    "iconColor": "#1cf000"
+  },
+  "Development/Concepts": {
+    "iconName": "SiSearxng",
+    "iconColor": "#f0ebb2"
+  },
+  "Development/Daily Notes": {
+    "iconName": "CoCalendarCheck",
+    "iconColor": "#7195ea"
+  },
+  "Development/Projects": "✨",
+  "Development/Goal.md": {
+    "iconName": "LiGoal",
+    "iconColor": "#11fa00"
+  }
 }

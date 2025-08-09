@@ -20,6 +20,8 @@ Start **Django - The Practical Guide**:
 
 📌 **Why first?** Django gives you the data/API layer that React will later connect to.
 
+
+
 # 🔥 Step 2: Learn React (Frontend)
 
 Start **React - The Complete Course**:
@@ -38,6 +40,8 @@ Start **React - The Complete Course**:
         
 
 🧠 **Goal**: Learn how to create the frontend UI and consume APIs (like your Django backend).
+
+
 # 🔥 Step 3: Connect Django + React
 
 Now build a **full-stack project**:
@@ -54,6 +58,8 @@ Now build a **full-stack project**:
 
 
 📦 Want me to generate a ready-to-run starter template for this?
+
+
 
 # 💡 Tips for Staying on Track
 
@@ -76,98 +82,27 @@ Now build a **full-stack project**:
 - ✅ E-commerce with cart, checkout (optional Stripe)
 
 ---
-# ✅ When React Native _is_ Worth Learning
 
-|You Should Learn React Native If You Want To…|Why|
-|---|---|
-|📱 Build **mobile apps** (iOS + Android)|React Native lets you write one codebase for both platforms|
-|💼 Apply to **mobile developer** jobs|React Native is used at Shopify, Discord, Uber Eats, etc.|
-|🚀 Launch your **own app** (startup idea?)|It’s the fastest way to ship iOS/Android together|
-|🔁 Reuse your **React knowledge**|React Native uses 90% the same concepts|
 
----
 
-## ❌ When React Native _is NOT_ Worth It (Yet)
-
-|You Should **Wait or Skip** If…|Why|
-|---|---|
-|🎯 Your focus is **web development jobs**|React Native isn’t used in web dev (React.js is)|
-|🧠 You’re still learning React basics|Jumping into mobile too early adds complexity|
-|🕓 You don’t have extra time right now|Better to go deep on React + Django first|
-
----
-
-## 🧠 What Most Developers Do
-
-1. **Learn React.js first (web)**
-    
-2. Build a few React apps
-    
-3. Then, **transition to React Native** to target mobile if needed
-    
-
-This way, you build your foundation and reuse what you learn.
-
----
-
-## 💡 Alternative Path (for Full Stack Jobs)
-
-If your main goal is to get a **web developer job**, React Native can wait. Focus on:
-
-- **React.js** (frontend)
-    
-- **Django / Node.js** (backend)
-    
-- **Databases**
-    
-- **Deploying apps**
-    
-Then later, if you want mobile skills on your resume or have a mobile app idea, React Native is a smooth jump.
 
 # ✅ Phase 1: **Web Developer Roadmap** (React + Django)
 
 🎯 **Goal**: Become job-ready for full-stack web development
 
-|Step|Focus Area|Tools|Outcome|
-|---|---|---|---|
-|1️⃣|**Python & Django**|Django, Django REST Framework|Learn how to build APIs, user auth, CRUD apps|
-|2️⃣|**React.js**|React, Tailwind CSS, React Router|Build interactive UIs, connect to Django APIs|
-|3️⃣|**Full-Stack Integration**|Django + React|Create a real-world project with frontend + backend|
-|4️⃣|**Git + GitHub**|SSH, branches, commits|Push and collaborate like in real jobs|
-|5️⃣|**Deployment**|Vercel (React), Render/Heroku (Django)|Make your app live — a must for your portfolio|
-|6️⃣|**Portfolio Project**|Your app (e.g., blog, task manager)|Show employers a complete project|
-|7️⃣|**Job Prep**|LinkedIn, resume, LeetCode (light)|Apply for junior full-stack/dev jobs|
+| Step | Focus Area                 | Tools                                  | Outcome                                             |
+| ---- | -------------------------- | -------------------------------------- | --------------------------------------------------- |
+| 1️⃣  | **Python & Django**        | Django, Django REST Framework          | Learn how to build APIs, user auth, CRUD apps       |
+| 2️⃣  | **React.js**               | React, Tailwind CSS, React Router      | Build interactive UIs, connect to Django APIs       |
+| 3️⃣  | **Full-Stack Integration** | Django + React                         | Create a real-world project with frontend + backend |
+| 4️⃣  | **Git + GitHub**           | SSH, branches, commits                 | Push and collaborate like in real jobs              |
+| 5️⃣  | **Deployment**             | Vercel (React), Render/Heroku (Django) | Make your app live — a must for your portfolio      |
+| 6️⃣  | **Portfolio Project**      | Your app (e.g., blog, task manager)    | Show employers a complete project                   |
+| 7️⃣  | **Job Prep**               | LinkedIn, resume, LeetCode (light)     | Apply for junior full-stack/dev jobs                |
 
 ✅ **Goal Reached**: You’re ready for real-world web jobs (React + Django stack)
 
 ---
-
-# 🟣 Phase 2 (Optional): **React Native for Mobile Apps**
-
-🎯 **Goal**: Build Android/iOS apps from your React skills
-
-|Step|Focus Area|Tools|Outcome|
-|---|---|---|---|
-|1️⃣|**React Native Basics**|React Native CLI, Expo|Learn mobile components, navigation|
-|2️⃣|**Mobile State & API Calls**|Axios, async storage|Build apps that store data & sync with backend|
-|3️⃣|**Convert Web App to Mobile**|Your Django backend|Use same API to power mobile|
-|4️⃣|**Mobile Deployment**|Expo Go, Play Store, TestFlight|Publish a mobile version of your app|
-
-📱 _React Native is great for your second round of portfolio projects or side apps._
-
----
-
-## 🛠️ Tools You Should Install Along the Way
-
-|Purpose|Tool|
-|---|---|
-|Code Editor|VS Code (you already have)|
-|Python|Homebrew + pyenv + venv|
-|Node.js|NVM + Node (LTS version)|
-|React Dev|Vite or Create React App|
-|GitHub|SSH set up ✔️|
-|API Testing|Postman or Insomnia|
-|Deployment|Vercel (React), Render/Fly.io (Django)|
 
 
 # 🧠 Core Concepts to Study Alongside Django (Backend)

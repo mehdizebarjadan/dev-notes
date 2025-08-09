@@ -138,26 +138,5 @@
       "value": "#b94321"
     }
   ],
-  "fileColors": [
-    {
-      "path": "Courses",
-      "color": "O7MT1Q774uMxcF8DXAv00"
-    },
-    {
-      "path": "Snippets",
-      "color": "6PtwokhwavwBMWfYq-ZE1"
-    },
-    {
-      "path": "README.md",
-      "color": "IFvLkEGeDQq4Fi9itpPzU"
-    },
-    {
-      "path": "CONTRIBUTING.md",
-      "color": "IFvLkEGeDQq4Fi9itpPzU"
-    },
-    {
-      "path": "Daily",
-      "color": "bnJupasKP8Pf1NplFDPtA"
-    }
-  ]
+  "fileColors": []
 }
