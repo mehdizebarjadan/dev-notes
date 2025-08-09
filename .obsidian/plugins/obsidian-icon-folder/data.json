@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSun",
+      "CoSun",
+      "☀",
       "💻",
-      "📚",
-      "🧪",
-      "🧠",
-      "CoCalendarCheck"
+      "📚"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,11 +46,11 @@
   },
   "Snippets/Setting Up Development Environment/Obsidian Setup for Dev Learning Lightweight.md": {
     "iconName": "SiObsidian",
-    "iconColor": "#7789cf"
+    "iconColor": "#af96f0"
   },
   "Snippets/Setting Up Development Environment/SSH (Secure Shell) key in GitHub.md": {
     "iconName": "SiGithub",
-    "iconColor": "#fa90a8"
+    "iconColor": "#f28b82"
   },
   "Snippets/Setting Up Development Environment/Virtual Environment Setup - Python.md": {
     "iconName": "SiPython",
@@ -74,5 +74,6 @@
   },
   "Projects": "💻",
   "Courses": "📚",
-  "Courses/Recommended Learning Path.md": "💡"
+  "Courses/Recommended Learning Path.md": "💡",
+  "Courses/Study Strategies.md": "LiSun"
 }

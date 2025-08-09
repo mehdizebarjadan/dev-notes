@@ -1,5 +1,5 @@
 {
-  "cascadeColors": false,
+  "cascadeColors": true,
   "colorBackground": false,
   "palette": [
     {
@@ -51,28 +51,113 @@
       "id": "wB-QPsIZKP_qgBn5clGb_",
       "name": "",
       "value": "#d5f0ee"
+    },
+    {
+      "id": "jpeDYV4qBsdhseKubIi4d",
+      "name": "",
+      "value": "#ffffff"
+    },
+    {
+      "id": "P38uG7OmN_bjqR_-9s1eM",
+      "name": "",
+      "value": "#b53336"
+    },
+    {
+      "id": "lDaPqc2hN4tUT1xbsHU6E",
+      "name": "",
+      "value": "#a7205a"
+    },
+    {
+      "id": "jxQ22tyLdXJDEDZzGgDHu",
+      "name": "",
+      "value": "#6e2592"
+    },
+    {
+      "id": "cyvnKWU_QNCkcjZw1cspi",
+      "name": "",
+      "value": "#4d3196"
+    },
+    {
+      "id": "89wGOC6VIW9cHRrrKXjjc",
+      "name": "",
+      "value": "#323f8e"
+    },
+    {
+      "id": "0B5VBUueguG9XJDFN4z51",
+      "name": "",
+      "value": "#2c6bb8"
+    },
+    {
+      "id": "5tL6bz0Uvi_AXtYfzRtaM",
+      "name": "",
+      "value": "#2d7ab7"
+    },
+    {
+      "id": "5krEovKG7hYzvZrUaE811",
+      "name": "",
+      "value": "#278596"
+    },
+    {
+      "id": "IFvLkEGeDQq4Fi9itpPzU",
+      "name": "",
+      "value": "#278696"
+    },
+    {
+      "id": "dKngLrZbweJ4dXQyDhSFf",
+      "name": "",
+      "value": "#397f40"
+    },
+    {
+      "id": "S1N2nMIdFIogmV7vI9AAU",
+      "name": "",
+      "value": "#5f8c3d"
+    },
+    {
+      "id": "jfy_amiCbgxHN52W2gL6V",
+      "name": "",
+      "value": "#989c33"
+    },
+    {
+      "id": "lsQD2sQeITKLzjGzZ0JPw",
+      "name": "",
+      "value": "#d3962e"
+    },
+    {
+      "id": "6PtwokhwavwBMWfYq-ZE1",
+      "name": "",
+      "value": "#d87f0f"
+    },
+    {
+      "id": "DcnC_fi77cijLN5NHDRRS",
+      "name": "",
+      "value": "#cb630f"
+    },
+    {
+      "id": "C0AHpa496RzgYNaMcaip2",
+      "name": "",
+      "value": "#b94321"
     }
   ],
   "fileColors": [
     {
       "path": "Courses",
-      "color": "sNBoY94BmeSFd3ESNpsbP"
+      "color": "O7MT1Q774uMxcF8DXAv00"
     },
     {
       "path": "Snippets",
-      "color": "sNBoY94BmeSFd3ESNpsbP"
-    },
-    {
-      "path": "Snippets/Setting Up Development Environment",
-      "color": "wB-QPsIZKP_qgBn5clGb_"
+      "color": "6PtwokhwavwBMWfYq-ZE1"
     },
     {
       "path": "README.md",
-      "color": "wB-QPsIZKP_qgBn5clGb_"
+      "color": "IFvLkEGeDQq4Fi9itpPzU"
     },
     {
       "path": "CONTRIBUTING.md",
-      "color": "wB-QPsIZKP_qgBn5clGb_"
+      "color": "IFvLkEGeDQq4Fi9itpPzU"
+    },
+    {
+      "path": "Daily",
+      "color": "bnJupasKP8Pf1NplFDPtA"
     }
   ]
 }
